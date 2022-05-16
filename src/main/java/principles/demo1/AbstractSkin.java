@@ -1,4 +1,4 @@
-package principles;
+package principles.demo1;
 
 /**
  * @author liaohongchen
